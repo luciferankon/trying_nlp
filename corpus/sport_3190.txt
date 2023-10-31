@@ -1,0 +1,1 @@
+A golf game for the Virtual Boy. The game featured 47 virtual opponents and used Virtual Boy's 3D capabilities. Player controls a few parameters before his/her shot such as the speed of the shot direction type of club to use. Complicating play the environment featured obstacles such as trees and bunkers.

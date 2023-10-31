@@ -1,0 +1,1 @@
+Cooking competition with 5 competitors. Contestants cook at his home dinner for the rest and at the end of the evening guests always evaluates the performance of the host (in the range of 1 to 10 points). Whoever gets the most points wins at the end of the week 25 000 CZK.

@@ -1,0 +1,1 @@
+Quiz show in which every time a contestant answers a question correctly on their chosen subject their prize money doubles starting at Ł1 upto Ł32. If they get a question wrong however they lose everything. The best player then goes on to a Ł1000 Treasure Trail.

@@ -1,0 +1,1 @@
+An Australian version of the popular American quiz show. The main twist of this program was that the host would give the answers to which the contestants would then have to supply the questions. This show was noted for having significantly more difficult questions than most other quiz shows.

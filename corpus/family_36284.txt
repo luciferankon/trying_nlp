@@ -1,0 +1,1 @@
+A nighttime driving game where your headlights illuminate the posts on both sides of the road. The object is to stay on the road as long as possible without crashing. As the game progresses however the road becomes narrower and more winding.

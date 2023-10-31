@@ -1,0 +1,1 @@
+Two players play a video version of table tennis. The ball bounces off the walls and the paddles. The paddles are controlled by the players by using the paddle knobs on the machine. When a ball gets by one player's paddle the other player scores a point. When someone scores 11 points they win and it's game over.

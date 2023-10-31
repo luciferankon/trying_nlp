@@ -1,0 +1,1 @@
+Swarmanoid is a heterogeneous swarm in which different groups of robots have different capabilities: some robots are specialized in manipulating objects and climbing some in moving on the ground and transporting objects and some in flying and observing the environment from above. In this film Swarmanoid is deployed to find and retrieve an object.

@@ -1,0 +1,1 @@
+First iteration of a game show where an item was placed before several celebrities - one of whom was telling the truth the others were not. The contestant won based upon whether-or-not they wagered correctly on the celebrity who told the truth.

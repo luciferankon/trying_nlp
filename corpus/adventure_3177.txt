@@ -1,0 +1,1 @@
+Gemini Rue is a cyberpunk graphic adventure game made by Joshua Nuernberger and published by Wadjet Eye Games. The game uses a point and click interface to interact with the environment to solve puzzles and communicate with characters. Initial release date: February 24 2011 Publisher: Wadjet Eye Games Platforms: Android Microsoft Windows GNU/Linux iOS Mac OS

@@ -1,0 +1,1 @@
+The game presents the hypothetical situation of the Soviet Union invading southern and central West Germany where NATO forces must contain and repel them. The player may choose to play either the NATO or Soviet forces and can play in turns against another human component or against the computer.
